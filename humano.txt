@@ -1,0 +1,4 @@
+Chileno,Bochi,123456789,Coquimbo,Ovalle,21,175,68,SR388/SR381
+Chileno,Georgio,11223344,Coquimbo,Salamanca,25,181,81,SR381
+Argentino,Andres,0999991,Buenos Aires,Capital,32,196,100,SR398
+Peruano,Camilo,10203040,Lima,Andes,56,168,71,SR900

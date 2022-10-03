@@ -1,0 +1,3 @@
+Gringo,Aandres,100200,EEUU,50,180,80,V
+Diss,Gargola,500987,Marte,25,200,90,F
+Americano,Bnalk,099123,Canada,45,185,65,V
